@@ -1,0 +1,8 @@
+[core]
+    autostage = true
+    remote = myremote
+['remote "myremote"']
+    url = s3://dvc-space/dvc-storage
+    endpointurl = https://ams3.digitaloceanspaces.com
+    access_key_id = DO00D9FZ88KWLHDMXBKF
+    secret_access_key = rufk8gQ/vAFdCM1X1CkHzv1f68OHGmsLPKpObuD+l5g
